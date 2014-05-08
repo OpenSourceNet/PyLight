@@ -9,7 +9,7 @@ During the installation please read the terms & conditions carefully and don't s
 
 Giorgiana Arghire from Softpedia rates PyLight a 4.0/5.0 and says "PyLight can prove to be a handy solution for all Python enthusiasts who are looking for an intuitive solution for editing their code lines."
 
-Soft82 rates PyLight a 5.0/5.0 and says "Truely a simple, neat and all rounder Python code editor"
+Soft82 rates PyLight a 5.0/5.0 and says "Truly a simple, neat and all rounder Python code editor"
 
 PyLight has recieved multiple awards and is a highly successful product in the market.
 
