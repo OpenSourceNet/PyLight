@@ -13,6 +13,14 @@ Soft82 rates PyLight a 5.0/5.0 and says "Truely a simple, neat and all rounder P
 
 PyLight has recieved multiple awards and is a highly successful product in the market.
 
+Download PyLight
+=======
+Article on SourceNet : http://sourcenet.blogspot.in/2014/05/pylight.html
+
+Article on Softpedia : http://www.softpedia.com/get/Programming/Coding-languages-Compilers/PyLight.shtml
+
+Download link : https://www.dropbox.com/s/w7kiypogwzj0rep/PyLightBigSetup.exe
+
 Terms & Conditions
 =======
 Thank you for chosing PyLight.
