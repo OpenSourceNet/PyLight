@@ -21,6 +21,14 @@ Article on Softpedia : http://www.softpedia.com/get/Programming/Coding-languages
 
 Download link : https://www.dropbox.com/s/w7kiypogwzj0rep/PyLightBigSetup.exe
 
+Copyright notice
+=======
+(c) Copyrights 2014 by Nirman Dave. All rights reserved.
+This work may be modified, reproduced, distributed, performed, and displayed for any purpose
+but must acknowledge "Nirman Dave", "SourceNet" and "PyLight". Copyright is retained
+and must be preserved. The work is provided as is; no warranty is provided, and users accept all
+the liability.
+
 Terms & Conditions
 =======
 Thank you for chosing PyLight.
@@ -43,12 +51,19 @@ Important information
 Thank you for chosing PyLight.
 Please read the information below carefully.
 1) You will need Python already installed on your PC.
+
 2) Python version 2.7.6 is advised.
+
 3) When the software opens the first time, it will prompt you to specify the installation path for Python. Please do so.
+
 4) If you have Python 2.7.6 installed and are running on x64Bit windows PC. Then please download 'py2exe'. If you don't know what that is, please search for it and download it from the internet.
+
 5) Install py2exe. (Don't worry, you dont need to know how to use it or what that is)
+
 6) If all the requirements above are fulfilled then all the features of PyLight will be successfully unlocked.
-7) Any missing feature from the list above (except point 1) won't disturb the basic functioning of PyLight.
+
+7) Any missing feature from the list above (except point 1) won't disturb the basic functioning of PyLight
+
 8) Code and enjoy!
 
 Note to developers
