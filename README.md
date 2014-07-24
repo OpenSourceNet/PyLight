@@ -25,11 +25,17 @@ Terms & Conditions
 =======
 Thank you for chosing PyLight.
 Please read the terms and conditions below carefully.
+
 1) Any sort of replication or copy of the PyLight's user interface is strictly prohibited.
+
 2) PyLight is created by Nirman Dave.
+
 3) Any code created using this PyLight does not concern the creator of PyLight in any manner.
+
 4) PyLight is not in any way endorsed by the Python group.
+
 5) PyLight is an independent software.
+
 6) PyLight is opensourced. However, replication of the user interface design is prohibited.
 
 Important information
