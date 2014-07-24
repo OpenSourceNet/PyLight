@@ -69,7 +69,7 @@ Please read the information below carefully.
 Note to developers
 =======
 As this product is in the BETA phase you may find some problems/bugs.
-Please report any problems/bugs you find to : sourcenet@outlook.com
+Please report any problems/bugs you find to : info@sourcenet.in
 
 About the creator
 =======
