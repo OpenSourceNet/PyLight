@@ -15,7 +15,7 @@ PyLight has recieved multiple awards and is a highly successful product in the m
 
 Download PyLight
 =======
-Article on SourceNet : http://sourcenet.blogspot.in/2014/05/pylight.html
+Article on SourceNet : http://sourcenet.in/2014/05/pylight.html
 
 Article on Softpedia : http://www.softpedia.com/get/Programming/Coding-languages-Compilers/PyLight.shtml
 
@@ -52,19 +52,11 @@ Please report any problems/bugs you find to : sourcenet@outlook.com
 
 About the creator
 =======
-PyLight is created by Nirman Dave and published by SourceNet, a blog maintained by Nirman Dave.
+PyLight is created by Nirman Dave and published by SourceNet, a website maintained by Nirman Dave.
 Nirman is only 17 years old and has just graduated from The Galaxy School in Rajkot, Gujarat. He has pursued the International Baccalaureate Diploma Program. He strongly believes in helping the society through the use of technology, a unique but a challenging task. Besides being the founder of SourceNet, SourceNick and SourceNet Ads; He also teaches computer programming at The Galaxy School and mentors the ‘Introduction to computer science’ course at a college in his town.
 He has been featured on many online news portals, as listed below.
 
-1) Article on YourStory.com : http://yourstory.com/2014/04/nirman-dave-techie-tuesdays/
-
-2) Interview on BuddyBits.com : http://buddybits.com/stars/two-young-school-guys-developed-a-multi-touch-surface-table/ 
-
-3) Interview on Movzio.com : http://www.movzio.com/columns/in-conversation-with-nirman-dave/ 
-
-4) Interview on RoughPolish : http://roughpolish.com/interview-magician-coding-mr-nirman-dave-founder-sourcenet/
-
-5) Article on TheTechPanda : http://thetechpanda.com/2014/04/28/17-year-old-nirman-dave/
+Check out all news articles on: http://www.sourcenet.in/p/quick-links.html
 
 Social
 =======
@@ -74,7 +66,7 @@ Follow SourceNet on Facebook : https://www.facebook.com/realsourcenet
 
 Follow Nirman on Twitter : https://twitter.com/iamnirman
 
-Nirman Dave's official website : http://nirman.uni.me/
+Nirman's official website : http://www.sourcenet.in/p/nirman-dave.html
 
 Copyright information
 =======
