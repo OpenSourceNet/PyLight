@@ -1,6 +1,8 @@
 PyLight
 =======
 
+![alt tag](http://4.bp.blogspot.com/-Q-1AWnqiEN8/U2Z3hLDD_yI/AAAAAAAAAT0/qbPbXOWH0d4/s1600/PyLight+Full.JPG)
+
 PyLight is a simple, neat and all rounder Python code editor. While other IDEs focus of features, PyLight is all about you and your Python codes! From great syntax highlighting to creating complex modules, PyLight has all the features that a developer needs but can't find in other Python IDEs!
 Additionally, PyLight builds a base for the beginners by allowing them to access simple inbuilt codes and also search for any doubts that they have using the 'Search for help' function.
 And as a cherry on the top, with PyLight you can save a Python file as .exe in just one click!
