@@ -94,3 +94,11 @@ Nirman's official website : http://www.sourcenet.in/p/nirman-dave.html
 Copyright information
 =======
 (c) Copyrights 2014 by Nirman Dave. All rights reserved.
+
+License
+=======
+![alt tag](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+Creative Commons License
+PyLight by Nirman Dave is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+Based on a work at http://www.sourcenet.in/2014/05/pylight.html.
+Permissions beyond the scope of this license may be available at https://github.com/OpenSourceNet/PyLight.
