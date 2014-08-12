@@ -97,7 +97,9 @@ Copyright information
 
 License
 =======
+
 ![alt tag](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+
 Creative Commons License
 PyLight by Nirman Dave is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 Based on a work at http://www.sourcenet.in/2014/05/pylight.html.
