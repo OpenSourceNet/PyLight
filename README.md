@@ -101,6 +101,7 @@ License
 ![alt tag](http://3.bp.blogspot.com/-MJQ47eOhI5o/U-qAPg-g4II/AAAAAAAAAto/SMCXspaAhfQ/s1600/88x31.png)
 
 Creative Commons License
+
 PyLight by <a href="http://www.nirmandave.com">Nirman Dave</a> is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 Based on a work at http://www.sourcenet.in/2014/05/pylight.html.
 Permissions beyond the scope of this license may be available at https://github.com/OpenSourceNet/PyLight.
