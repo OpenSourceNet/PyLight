@@ -81,8 +81,6 @@ He has been featured on many online news portals, as listed below.
 
 Check out all news articles on: http://www.sourcenet.in/p/quick-links.html
 
-Visit official website: http://www.nirmandave.com
-
 Social
 =======
 Follow SourceNet on Twitter : https://twitter.com/realsourcenet
@@ -91,7 +89,7 @@ Follow SourceNet on Facebook : https://www.facebook.com/realsourcenet
 
 Follow Nirman on Twitter : https://twitter.com/iamnirman
 
-Nirman's official website : http://www.sourcenet.in/p/nirman-dave.html
+Nirman's official website : http://www.nirmandave.com
 
 Copyright information
 =======
